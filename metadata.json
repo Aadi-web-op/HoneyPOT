@@ -1,0 +1,4 @@
+{
+  "name": "Copy of Honeypot AI Scam Detector",
+  "description": "A React web application simulating a honeypot API for scam detection and intelligence extraction using Gemini AI. It processes incoming messages, detects scam patterns, extracts critical intelligence, and generates engaging responses."
+}
